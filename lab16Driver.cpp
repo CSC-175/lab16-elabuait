@@ -2,6 +2,7 @@
 #include "./lab16.cpp"
 using namespace std;
 
+
 int main()
 {
     int a, b;
